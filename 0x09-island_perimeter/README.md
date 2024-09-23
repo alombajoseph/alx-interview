@@ -1,6 +1,5 @@
 0x09. Island Perimeter
-with the following task
-epts Needed:
+it involves the following tasks
 2D Arrays (Matrices):
 
 Accessing and iterating over elements in a 2D array.
